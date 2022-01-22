@@ -638,3 +638,9 @@ circle.selected {
   float: right;
   margin-left: 5px;
 }
+
+#visits {
+  padding: 0 20px;
+  text-align: right;
+  color: burlywood;
+}
