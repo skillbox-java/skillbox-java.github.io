@@ -358,7 +358,7 @@ p.t-justify {
 }
 .t-icon-metroln::before {
   min-height: 16px;
-  width: 16px;
+  width: 25px;
   font-size: 12px;
   line-height: 18px;
   text-align: center;
@@ -379,6 +379,7 @@ p.t-justify {
 .t-icon-metroln.ln-3::before {
   background-color: #072889;
   content: "3";
+  color:#d5d2d2;
 }
 .t-icon-metroln.ln-4::before {
   background-color: #069cd3;
@@ -387,6 +388,7 @@ p.t-justify {
 .t-icon-metroln.ln-5::before {
   background-color: #7f0000;
   content: "5";
+  color:#d5d2d2;
 }
 .t-icon-metroln.ln-6::before {
   background-color: #ff7f00;
